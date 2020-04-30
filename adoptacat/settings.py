@@ -26,7 +26,7 @@ SECRET_KEY = 'jzegv3@+7qhg6=wqz^s1rk=xenv$ezoqquz%7dcughtf#8z4g-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://ancient-lake-54397.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
